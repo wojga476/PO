@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1497636606 source:d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\administrator.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"administrator.h"
+	"glowny.h"
+	"aktywnosc.h"
+	<fstream>
+
+1464716306 d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\administrator.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1464716090 d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\glowny.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1497628666 d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\aktywnosc.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1497636638 source:d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\glowny.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"glowny.h"
+	"administrator.h"
+	"uzytkownik.h"
+	"aktywnosc.h"
+	<fstream>
+
+1464716306 d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\uzytkownik.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1497632461 source:d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"administrator.h"
+	"uzytkownik.h"
+	"glowny.h"
+	"aktywnosc.h"
+
+1497636705 source:d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\uzytkownik.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"administrator.h"
+	"uzytkownik.h"
+	"glowny.h"
+	"aktywnosc.h"
+	<fstream>
+
+1497646064 source:d:\elektronika i telekomunikacja\programowanie obiektowe w + p\program\aktywnosc.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"administrator.h"
+	"glowny.h"
+	"aktywnosc.h"
+	"uzytkownik.h"
+	<fstream>
+
